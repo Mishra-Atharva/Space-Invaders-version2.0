@@ -3,8 +3,8 @@ This is a `Space Invaders` type game that I created, there are Enemies that are 
 The player has 3 lives, everytime an enemy touches the bottom of the screen the player loses a life.
 
 ## How to Install
-- Download from [Space Invader Install](https://github.com/Mishra-Atharva/Space-Invaders-version2.0-install)
-- Clone the `Space Invader Install` Repository
+- Download from [Space Invader Install version 2.0](https://github.com/Mishra-Atharva/Space-Invaders-version2.0-install)
+- Clone the `Space Invader Install version 2.0` Repository
 - Run `game.exe`
 
 ## Controls
